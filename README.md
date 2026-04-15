@@ -2,11 +2,10 @@
 
 <div align="center">
 
-🚀 **Backend Architect | System Design | Performance Engineering**
-⚡ Building **high-performance, scalable systems** with clean architecture
+🚀 **Full-Stack Developer | System Design | Performance Engineering**  
+Building scalable systems with strong backend foundations and modern frontend.
 
-</div>
-
+</div
 ---
 
 ## 🧠 About Me
