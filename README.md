@@ -1,23 +1,27 @@
 # 👋 Hi there, I'm Dang Minh
 
 <div align="center">
+  <h2>🚀 Full-Stack Developer | System Design | Performance Engineering</h2>
+  <p>Building scalable systems with strong backend foundations and modern frontend.</p>
+</div>
 
-🚀 **Full-Stack Developer | System Design | Performance Engineering**  
-Building scalable systems with strong backend foundations and modern frontend.
+<br/>
 
-</div
----
+<h2>🧠 About Me</h2>
 
-## 🧠 About Me
-
-- 🔥 Full-stack engineer with a strong focus on **backend architecture & performance optimization**
-- ⚙️ Experienced in:
-  - Concurrency, multithreading & non-blocking I/O
-  - Event loop internals (Node.js) & request lifecycle (Spring)
-  - Database optimization (indexing, query tuning, pagination)
-  - Caching strategies with Redis (cache-aside, TTL control)
-- 🧩 Also build modern frontend with **React / Next.js**, focusing on clean UI & efficient data flow
-- 🎯 I build systems that are **low-latency, scalable, and observable**
+<ul>
+  <li>🔥 Full-stack engineer with a strong focus on <b>backend architecture & performance optimization</b></li>
+  <li>⚙️ Experienced in:
+    <ul>
+      <li>Concurrency, multithreading & non-blocking I/O</li>
+      <li>Event loop internals (Node.js) & request lifecycle (Spring)</li>
+      <li>Database optimization (indexing, query tuning, pagination)</li>
+      <li>Caching strategies with Redis (cache-aside, TTL control)</li>
+    </ul>
+  </li>
+  <li>🧩 Also build modern frontend with <b>React / Next.js</b>, focusing on clean UI & efficient data flow</li>
+  <li>🎯 I build systems that are <b>low-latency, scalable, and observable</b></li>
+</ul>
 
 ## 🛠 Tech Stack
 
