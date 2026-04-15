@@ -1,112 +1,129 @@
+# 👋 Hi there, I'm Dang Minh
+
 <div align="center">
 
-# 🚀 Dang Minh
-### Full-Stack Developer | Backend Architect
-
-*Building scalable, high-performance applications with clean, maintainable code*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dangminhdev0403)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dangminhdev0403)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dangminhdev0403@example.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dangminhdev0403&color=0A66C2&style=flat)
+🚀 **Backend Architect | System Design | Performance Engineering**
+⚡ Building **high-performance, scalable systems** with clean architecture
 
 </div>
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-Passionate full-stack developer specializing in **backend architecture** and **scalable system design**. I craft robust APIs and modern web applications using cutting-edge technologies. I believe in writing code that's not just functional, but elegant and maintainable.
+* 🔥 Focused on **backend architecture & performance optimization**
+* ⚙️ Strong in:
 
-**Key Focus Areas:**
-- 🏗️ Microservices Architecture & API Design
-- 🚀 Performance Optimization & Scalability
-- 📦 Clean Code & Best Practices
-- 🔄 System Design & Problem Solving
+  * Concurrency / Multithreading
+  * Event Loop / Async I/O (Node.js)
+  * Database tuning & query optimization
+  * Caching strategies (Redis)
+* 🎯 Goal: Build systems that are **fast, scalable, observable**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Backend Expertise
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Backend
 
-### Frontend Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 
-### Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Data & Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Engineering Mindset
 
-<div align="center">
-
-![Dang Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangminhdev0403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dangminhdev0403&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhdev0403&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💼 What I'm Working On
-
-| Area | Description |
-|------|-------------|
-| **Backend Systems** | Designing and implementing scalable microservices using NestJS and Spring Boot with event-driven architecture |
-| **Full-Stack Solutions** | Building end-to-end applications with Next.js frontends and high-performance APIs |
-| **DevOps & Infrastructure** | Containerization, orchestration, and cloud deployment (Docker, Kubernetes, CI/CD) |
-| **Code Quality** | Writing tested, documented, and maintainable code following SOLID principles |
-
----
-
-## 🎯 Current Focus
-
-```
-→ Building microservices with NestJS + PostgreSQL
-→ Exploring advanced system design patterns
-→ Contributing to open source projects
-→ Staying updated with latest web technologies
+```text
+- Database is the primary bottleneck
+- Latency matters more than CPU
+- Cache is powerful but dangerous
+- Async != faster (wrong usage kills performance)
+- Measure everything (logs, metrics, traces)
 ```
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Insights
 
 <div align="center">
 
-**Looking for collaboration or have an interesting project?** Let's talk!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dangminhdev0403&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhdev0403&layout=compact&theme=tokyonight&hide_border=true" />
 
-[📧 Send me an email](mailto:dangminhdev0403@example.com) • 
-[🔗 LinkedIn](https://linkedin.com/in/dangminhdev0403) • 
-[💻 Portfolio](https://yourportfolio.com) • 
-[🐙 GitHub](https://github.com/dangminhdev0403)
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dangminhdev0403&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+## 🧩 Featured Project
+
+### 🍽 Food Management System
+
+> Fullstack system designed with **production mindset**
+
+* RBAC (Role-Based Access Control)
+* Real-time order processing
+* Optimized DB queries + Redis caching
+* Clean API design (pagination, filtering)
+
+**Tech:** Next.js • Node.js • PostgreSQL • Redis
+
+---
+
+## 🧠 Backend Principles
+
+* Design API with **clear transaction boundaries**
+* Always **index before scaling**
+* Prefer **read optimization over premature microservices**
+* Use **Redis for hot data, not everything**
+* Apply **observability (OpenTelemetry mindset)**
+
+---
+
+## 📫 Connect
+
 <div align="center">
 
-### "Code is poetry written in a language machines understand" 
+[GitHub](https://github.com/dangminhdev0403) •
+[LinkedIn](https://linkedin.com/in/dangminhdev0403) •
+[Email](mailto:dangminhdev0403@example.com)
 
-![Footer](https://img.shields.io/badge/Last%20Updated-2024-blue?style=flat)
+</div>
+
+---
+
+## 🚀 Signature
+
+<div align="center">
+
+> “I don't scale systems by adding servers.
+> I scale them by eliminating bottlenecks.”
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dangminhdev0403\&color=blue\&style=flat)
+
+</div>
