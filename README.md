@@ -78,18 +78,31 @@
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Featured Projects
 
 ### 🍽 Food Management System
-
 > Fullstack system designed with **production mindset**
 
-* RBAC (Role-Based Access Control)
-* Real-time order processing
-* Optimized DB queries + Redis caching
-* Clean API design (pagination, filtering)
+- RBAC (Role-Based Access Control)
+- Real-time order processing (WebSocket)
+- Optimized DB queries + Redis caching
+- Clean API design (pagination, filtering)
 
 **Tech:** Next.js • Node.js • PostgreSQL • Redis
+
+---
+
+### 🛒 Shopee Clone System  
+🔗 https://github.com/dangminhdev0403/fullstack-shopee-clone
+
+> E-commerce system focused on **scalability & backend architecture**
+
+- RESTful API design (Spring Boot)
+- Optimized query & transaction handling
+- Modular service structure
+- Frontend integration with ReactJS
+
+**Tech:** Java Spring Boot • ReactJS • PostgreSQL
 
 ---
 
