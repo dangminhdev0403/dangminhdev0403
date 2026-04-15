@@ -83,6 +83,7 @@
 
 ### 🍽 Food Management System
 > Fullstack system designed with **production mindset**
+🎥 **Live Demo:**(https://youtu.be/rq4fYhTzC8E?si=5rMQzZOY-QZoAMKJ)
 
 - RBAC (Role-Based Access Control)
 - Real-time order processing (WebSocket)
