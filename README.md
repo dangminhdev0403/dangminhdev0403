@@ -82,7 +82,7 @@
 ## 🧩 Featured Projects
 
 ### 🍽 Food Management System
-> Fullstack system designed with **production mindset**
+> Fullstack system designed with **production mindset** <br>
 🎥 **Live Demo:**(https://youtu.be/rq4fYhTzC8E?si=5rMQzZOY-QZoAMKJ)
 
 - RBAC (Role-Based Access Control)
@@ -96,7 +96,7 @@
 
 ### 🛒 Shopee Clone System  
 
-> E-commerce system focused on **scalability & backend architecture**
+> E-commerce system focused on **scalability & backend architecture**  <br>
  🎥 **Live Demo:**(https://web.facebook.com/share/v/1AzQK4GZ5E)
 - RESTful API design (Spring Boot)
 - Optimized query & transaction handling
