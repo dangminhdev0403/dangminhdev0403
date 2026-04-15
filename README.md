@@ -93,7 +93,6 @@
 ---
 
 ### 🛒 Shopee Clone System  
-🔗 https://github.com/dangminhdev0403/fullstack-shopee-clone
 
 > E-commerce system focused on **scalability & backend architecture**
 
@@ -102,17 +101,19 @@
 - Modular service structure
 - Frontend integration with ReactJS
 
-**Tech:** Java Spring Boot • ReactJS • PostgreSQL
+**Tech:** Java Spring Boot • ReactJS • MySQL
 
 ---
 
-## 🧠 Backend Principles
+### 🌐 WeConnect
+> Social platform built with **real-time communication & scalable backend**
 
-* Design API with **clear transaction boundaries**
-* Always **index before scaling**
-* Prefer **read optimization over premature microservices**
-* Use **Redis for hot data, not everything**
-* Apply **observability (OpenTelemetry mindset)**
+- Real-time messaging (WebSocket)
+- Optimized API with non-blocking I/O (Node.js)
+- Scalable structure for concurrent users
+- Clean separation between client & server
+
+**Tech:** ReactJS • Node.js • Express • MongoDB
 
 ---
 
