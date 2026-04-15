@@ -1,83 +1,112 @@
-# Hi there 👋 I'm Dang Minh
-
-<a href="https://github.com/dangminhdev0403">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-## Full-Stack Developer | Backend Architect | Open Source Enthusiast
-
-Passionate about building scalable, robust applications with clean, maintainable code. Specialized in modern backend architectures and full-stack web development.
-
----
-
-## 🔧 Tech Stack
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangminhdev0403&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangminhdev0403&theme=nord&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 💼 What I Do
-
-- 🏗️ **Backend Architecture** - Design and implement scalable microservices using NestJS and Spring Boot
-- 🚀 **Full-Stack Development** - Build complete solutions with Next.js frontends and robust APIs
-- 📦 **Clean Code** - Write maintainable, tested, and well-documented code
-- 🔄 **System Design** - Create efficient solutions for complex problems
-- 🤝 **Collaboration** - Work effectively in agile teams and open source communities
-
----
-
-## 🎯 Currently
-
-- 💻 Building scalable applications with modern tech stacks
-- 📚 Constantly learning new technologies and best practices
-- 🔍 Exploring advanced system design patterns
-
----
-
-## 📫 Get In Touch
-
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/dangminhdev0403) • 
-[Email](mailto:dangminhdev0403@example.com) • 
-[Portfolio](https://yourportfolio.com)
+# 🚀 Dang Minh
+### Full-Stack Developer | Backend Architect
+
+*Building scalable, high-performance applications with clean, maintainable code*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dangminhdev0403)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dangminhdev0403)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dangminhdev0403@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dangminhdev0403&color=0A66C2&style=flat)
 
 </div>
 
 ---
 
+## 💡 About Me
+
+Passionate full-stack developer specializing in **backend architecture** and **scalable system design**. I craft robust APIs and modern web applications using cutting-edge technologies. I believe in writing code that's not just functional, but elegant and maintainable.
+
+**Key Focus Areas:**
+- 🏗️ Microservices Architecture & API Design
+- 🚀 Performance Optimization & Scalability
+- 📦 Clean Code & Best Practices
+- 🔄 System Design & Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-**Let's build something amazing together! 🚀**
+### Backend Expertise
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Profile views](https://komarev.com/ghpvc/?username=dangminhdev0403&color=blue)
+### Frontend Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Dang Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangminhdev0403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dangminhdev0403&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhdev0403&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+| Area | Description |
+|------|-------------|
+| **Backend Systems** | Designing and implementing scalable microservices using NestJS and Spring Boot with event-driven architecture |
+| **Full-Stack Solutions** | Building end-to-end applications with Next.js frontends and high-performance APIs |
+| **DevOps & Infrastructure** | Containerization, orchestration, and cloud deployment (Docker, Kubernetes, CI/CD) |
+| **Code Quality** | Writing tested, documented, and maintainable code following SOLID principles |
+
+---
+
+## 🎯 Current Focus
+
+```
+→ Building microservices with NestJS + PostgreSQL
+→ Exploring advanced system design patterns
+→ Contributing to open source projects
+→ Staying updated with latest web technologies
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Looking for collaboration or have an interesting project?** Let's talk!
+
+[📧 Send me an email](mailto:dangminhdev0403@example.com) • 
+[🔗 LinkedIn](https://linkedin.com/in/dangminhdev0403) • 
+[💻 Portfolio](https://yourportfolio.com) • 
+[🐙 GitHub](https://github.com/dangminhdev0403)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code is poetry written in a language machines understand" 
+
+![Footer](https://img.shields.io/badge/Last%20Updated-2024-blue?style=flat)
