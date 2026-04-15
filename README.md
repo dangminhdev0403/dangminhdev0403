@@ -1,112 +1,83 @@
-# 👋 Hi, I'm Minh (dangminhdev)
+# Hi there 👋 I'm Dang Minh
 
-🚀 Backend Engineer | System Design | Performance Optimization
-⚡ Focus: Java Spring Boot, Node.js, Microservices, High Performance Systems
+<a href="https://github.com/dangminhdev0403">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+## Full-Stack Developer | Backend Architect | Open Source Enthusiast
 
-## 🧠 About Me
-
-* 🔥 Passionate about **backend architecture & performance tuning**
-* ⚙️ Deep dive into:
-
-  * Concurrency / Threading
-  * Event Loop / Async I/O
-  * Database Optimization
-  * Caching strategies (Redis)
-* 🎯 Goal: Build systems that are **fast, scalable, and observable**
+Passionate about building scalable, robust applications with clean, maintainable code. Specialized in modern backend architectures and full-stack web development.
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-* Java (Spring Boot)
-* Node.js (NestJS / Express)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Database
-
-* PostgreSQL / MySQL
-* Redis (Caching, Pub/Sub)
-
-### System Design
-
-* Microservices
-* RESTful API / gRPC
-* Message Queue (Kafka / RabbitMQ)
-
-### DevOps & Tools
-
-* Docker
-* GitHub Actions
-* OpenTelemetry (Tracing & Logging)
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## ⚡ Performance Mindset
+## 📊 GitHub Statistics
 
-```text
-- Avoid blocking I/O
-- Optimize DB query (index, pagination)
-- Cache aggressively but correctly
-- Control transaction boundary
-- Measure everything (logs, traces, metrics)
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dangminhdev0403&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+</div>
 
----
-
-## 📊 GitHub Stats
-
-<!-- GITHUB_STATS_START -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangminhdev04032005\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhdev04032005\&layout=compact\&theme=tokyonight)
-
-<!-- GITHUB_STATS_END -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangminhdev0403&theme=nord&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🧩 Featured Projects
+## 💼 What I Do
 
-### 🍽 Food Management System
-
-> Fullstack system for restaurant management
-
-* RBAC (Role-Based Access Control)
-* Real-time order handling
-* Optimized API response & caching
-* Tech: Next.js + Node.js + PostgreSQL
+- 🏗️ **Backend Architecture** - Design and implement scalable microservices using NestJS and Spring Boot
+- 🚀 **Full-Stack Development** - Build complete solutions with Next.js frontends and robust APIs
+- 📦 **Clean Code** - Write maintainable, tested, and well-documented code
+- 🔄 **System Design** - Create efficient solutions for complex problems
+- 🤝 **Collaboration** - Work effectively in agile teams and open source communities
 
 ---
 
-## 📈 Coding Activity (WakaTime)
+## 🎯 Currently
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-## 🧠 Backend Principles I Follow
-
-* **Database is always the bottleneck**
-* **Latency > CPU**
-* **Cache is a double-edged sword**
-* **Async ≠ faster (if misused)**
-* **Logs without tracing = useless**
+- 💻 Building scalable applications with modern tech stacks
+- 📚 Constantly learning new technologies and best practices
+- 🔍 Exploring advanced system design patterns
 
 ---
 
-## 📫 Contact
+## 📫 Get In Touch
 
-* GitHub: https://github.com/dangminhdev04032005
-* Email: your-email-here
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/dangminhdev0403) • 
+[Email](mailto:dangminhdev0403@example.com) • 
+[Portfolio](https://yourportfolio.com)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-> I don't optimize code...
-> I eliminate bottlenecks.
+**Let's build something amazing together! 🚀**
+
+![Profile views](https://komarev.com/ghpvc/?username=dangminhdev0403&color=blue)
+
+</div>
