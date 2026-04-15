@@ -11,16 +11,14 @@
 
 ## 🧠 About Me
 
-* 🔥 Focused on **backend architecture & performance optimization**
-* ⚙️ Strong in:
-
-  * Concurrency / Multithreading
-  * Event Loop / Async I/O (Node.js)
-  * Database tuning & query optimization
-  * Caching strategies (Redis)
-* 🎯 Goal: Build systems that are **fast, scalable, observable**
-
----
+- 🔥 Full-stack engineer with a strong focus on **backend architecture & performance optimization**
+- ⚙️ Experienced in:
+  - Concurrency, multithreading & non-blocking I/O
+  - Event loop internals (Node.js) & request lifecycle (Spring)
+  - Database optimization (indexing, query tuning, pagination)
+  - Caching strategies with Redis (cache-aside, TTL control)
+- 🧩 Also build modern frontend with **React / Next.js**, focusing on clean UI & efficient data flow
+- 🎯 I build systems that are **low-latency, scalable, and observable**
 
 ## 🛠 Tech Stack
 
