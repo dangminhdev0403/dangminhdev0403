@@ -114,16 +114,3 @@
 </div>
 
 ---
-
-## 🚀 Signature
-
-<div align="center">
-
-> “I don't scale systems by adding servers.
-> I scale them by eliminating bottlenecks.”
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dangminhdev0403\&color=blue\&style=flat)
-
-</div>
